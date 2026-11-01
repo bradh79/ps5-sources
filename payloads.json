@@ -1,0 +1,21 @@
+{
+  "name": "My Payloads",
+  "payloads": [
+    {
+      "name": "HyperHEN",
+      "filename": "HyperHEN.elf",
+      "url": "PASTE the .elf link from the newest release on github.com/Michele-M-Media/HYPERHEN/releases",
+      "description": "All-in-one PS5 HEN and Toolbox. Needs an already jailbroken console and elfldr on port 9021.",
+      "version": "v0.9.4",
+      "category": "HEN"
+    },
+    {
+      "name": "byepervisor reborn",
+      "filename": "byepervisor-reborn.elf",
+      "url": "PASTE the direct download link for your byepervisor reborn elf",
+      "description": "Byepervisor Reborn hypervisor exploit payload.",
+      "version": "PASTE its version",
+      "category": "Exploit"
+    }
+  ]
+}
